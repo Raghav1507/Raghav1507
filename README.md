@@ -1,4 +1,4 @@
-![logo](https://github.com/Raghav1507/blob/main/Banner.png)
+![logo](Banner.png)
 
 
 <h1 align="center">
