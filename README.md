@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=500&color=00FFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=451&height=65&lines=In+the+realm+of+AI%2C+;imagination+knows+no+bounds." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=500&color=00FFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=451&height=65&lines=In+the+realm+of+AI%2C+;Imagination+knows+no+bounds." alt="Typing SVG" /></a>
 </h1>
 
 
@@ -11,12 +11,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Raghav Singhal</h1>
-<h3 align="center">A passionate AI & ML Enthusiast, Web Developer and Trader</h3>
+<h3 align="center">A passionate AI & ML Enthusiast, Web Developer Student</h3>
 
 <img align ="right" alt ="coding" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width ="400">
 
 
-- 🌱 I’m currently learning **Flutter , C++ , java **
+- 🌱 I’m currently learning Flutter , C++ , Javascript and python
 
 - 💬 Ask me about **AI & ML , python , html-css, Flutter**
 
